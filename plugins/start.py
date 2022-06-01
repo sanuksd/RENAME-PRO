@@ -13,10 +13,10 @@ async def start(client,message):
 
 ➠ 𝘐 𝘊𝘢𝘯 𝘙𝘦𝘯𝘢𝘮𝘦 ✍️ 𝘈𝘯𝘺 𝘍𝘪𝘭𝘦 🗃️ & 𝘝𝘪𝘥𝘦𝘰 📸 𝘞𝘪𝘵𝘩 𝘊𝘶𝘴𝘵𝘰𝘮 𝘛𝘩𝘶𝘮𝘣𝘯𝘢𝘪𝘭 𝘚𝘶𝘱𝘱𝘰𝘳𝘵.
        
-➠ 𝘔𝘢𝘪𝘯𝘵𝘢𝘪𝘯𝘦𝘥 𝘉𝘺 : @ChVivekTomar
+➠ 𝘔𝘢𝘪𝘯𝘵𝘢𝘪𝘯𝘦𝘥 𝘉𝘺 : @sanumovieowner
 	""",reply_to_message_id = message.message_id ,  
 	reply_markup=InlineKeyboardMarkup(
-	 [[ InlineKeyboardButton("Official Channel 😎" ,url="https://t.me/Error_404_Official") ]  ]))
+	 [[ InlineKeyboardButton("Official Channel 😎" ,url="https://t.me/+Qb_WFOWoi3VkYTEx") ]  ]))
 	
 
 
